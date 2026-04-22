@@ -1,1 +1,1 @@
-# SQL project
+PYTHON PROJECT
